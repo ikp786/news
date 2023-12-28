@@ -1,0 +1,862 @@
+
+
+body {
+    background: #F5F5F5 !important;
+}
+
+header {
+    padding: 10px 0px;
+    box-shadow: 0px 3px 6px #F5F5F5;
+}
+
+body {
+    user-select: none;
+}
+
+.ad-menus {
+    background: #2A4573;
+    margin-left: -20px;
+    padding-left: 14px;
+    height: 600px;
+}
+
+.dashboard-menu li {
+    display: inline-block;
+}
+
+.ad-menus a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.dashboard-menu img {
+    max-width: 70%;
+}
+
+.associate-drop li {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.associate-drop img {
+    max-width: 70%;
+}
+
+li.drop-Associate-Icon {
+    rotate: 270deg;
+    margin-left: 23px;
+}
+
+li.drop-Associate-Icon img {
+    max-width: 80%;
+}
+
+.course-drop li {
+    display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+li.course-drop {
+    margin-left: 50px;
+    rotate: 270deg;
+}
+
+li.course-drop {
+    margin-left: 25px;
+}
+
+li.course-drop img {
+    max-width: 80%;
+}
+
+.course-drop img {
+    max-width: 70%;
+}
+
+.exam-drop li {
+    display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.exam-drop img {
+    max-width: 70%;
+}
+
+li.exam-dropIcon {
+    rotate: 270deg;
+    margin-left: 53px;
+}
+
+li.exam-dropIcon img {
+    max-width: 80%;
+}
+
+li.reports-dropIcon img {
+    max-width: 80%;
+}
+
+li.reports-dropIcon {
+    rotate: 270deg;
+    margin-left: 34px;
+}
+
+li.document-dropIcon img {
+    max-width: 80%;
+}
+
+li.document-dropIcon {
+    rotate: 270deg;
+    margin-left: 15px;
+}
+
+.setting-menu li {
+    display: inline-block;
+    /* margin-right: 10px; */
+}
+
+.menus-abmincmn ul {
+    padding: 0;
+}
+
+.setting-menu img {
+    max-width: 70%;
+}
+
+.menus-abmincmn {
+    padding: 0px 0 25px;
+}
+
+.dashboard-sec .col-md-2 {
+    padding: 0;
+}
+
+.menus-abmincmn ul {
+    margin: 0;
+}
+
+.dashboard-menu {
+    padding: 8px 16px;
+    margin-bottom: 10px;
+}
+
+.associate-drop {
+    padding: 8px 16px;
+}
+
+.course-drop {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.exam-drop {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.setting-menu {
+    padding: 8px 16px;
+}
+
+.dashboard-boxcmn li {
+    display: inline-block;
+}
+
+.D-Icon1 {
+    background: #EBEEF5;
+}
+
+.D-Icon1 {
+    background: #EBEEF5;
+    padding: 55px 30px 55px 40px;
+}
+
+.D-Icon1 img {
+    max-width: 80%;
+}
+
+.dashboard-boxcmn .row {
+    align-items: center;
+}
+
+.dashboard-boxcmn {
+    box-shadow: 0px 3px 6px #c9c9c9;
+}
+
+.dashboard-retings {
+    margin-left: 26px;
+}
+
+.dashboard-retings h1 {
+    color: #3B5999;
+    font-weight: 700;
+}
+
+.D-Icon1.D-Icon1c {
+    background: #E5F7FE;
+}
+
+.D-Icon1.D-Icon2c {
+    background: #ECF6ED;
+}
+
+.dashboard-rightcon {
+    padding-top: 68px;
+    margin: 0 20px;
+}
+
+ul.assoDrop-Menu {
+    margin-top: 10px;
+}
+
+ul.assoDrop-Menu img {
+    max-width: 12%;
+}
+
+ul.assoDrop-Menu span {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.associate-drop {
+    cursor: pointer;
+}
+
+ul.course-dropmenu img {
+    max-width: 13%;
+}
+
+ul.course-dropmenu span {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+ul.course-dropmenu {
+    margin-top: 10px;
+}
+
+ul.exam-menusD img {
+    max-width: 15%;
+}
+
+ul.exam-menusD span {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+ul.exam-menusD {
+    margin-top: 10px;
+}
+
+ul.report-menusD img {
+    max-width: 11% !important;
+}
+
+a.plusBg img {
+    max-width: 13.5% !important;
+}
+
+ul.report-menusD span {
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+ul.report-menusD {
+    margin-top: 10px;
+}
+
+ul.gender-Ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul.gender-Ul li {
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.addAsso-sec {
+    margin-top: 40px;
+}
+
+.addAsso-sec h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 18px;
+    font-size: 20px;
+}
+
+.addAsso-Inputscnm input {
+    border-radius: 3px;
+}
+
+.addAsso-sec .row {
+    align-items: center;
+}
+
+section.list-associateWp {
+    padding-top: 40px;
+}
+
+.btn-Add {
+    float: right;
+}
+
+.btn-Add a {
+    background: #00ACEE;
+    color: #fff;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 4px;
+}
+
+button.btn.searchBtn {
+    background: #4BA74F;
+    color: #fff;
+}
+
+.listAsso-head input { 
+    border-radius: 3px;
+}
+
+.listAsso-head h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+
+.listAsso-head .row {
+    align-items: center;
+}
+
+/* .listTableAsso {
+    margin-top: 40px;
+    height: 478px;
+    overflow: scroll;
+} */
+
+ul.activitis-ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul.activitis-ul li {
+    display: inline-block;
+}
+
+ul.activitis-ul img {
+    max-width: 74%;
+}
+
+.add-coursesec {
+    padding-top: 40px;
+}
+
+.add-coursesec h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 18px;
+    font-size: 20px;
+}
+
+.add-coursesec input {
+    border-radius: 3px;
+}
+
+.course-typesbox li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.course-typesbox ul {
+    padding: 0;
+    margin: 0;
+}
+
+.pdfInput {
+    margin-top: 20px;
+}
+
+.videoInput {
+    margin-top: 20px;
+}
+
+.videoUrlInput {
+    margin-top: 20px;
+}
+
+.ck-additar {
+    margin-top: 20px;
+}
+
+.nextAdd-asso button {
+    background: #00ACEE;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    padding: 5px 16px;
+    border-radius: 4px;
+    border: none;
+}
+
+.nextAdd-asso {
+    margin-top: 20px;
+}
+
+.cour-listhead h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 18px;
+    font-size: 20px;
+}
+
+.addcou-listbtn a {
+    background: #00ACEE;
+    color: #fff;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 4px;
+}
+
+.addcou-listbtn {
+    text-align: end;
+}
+
+.cour-listhead .row {
+    align-items: center;
+}
+
+.list-courseTable {
+    margin-top: 40px;
+}
+
+.addCourse-sub {
+    margin-top: 25px;
+}
+
+.addCourse-sub button {
+    background: #00ACEE;
+    color: #fff;
+    border: none;
+    font-weight: 500;
+    padding: 4px 14px;
+    border-radius: 4px;
+}
+
+section.list-coursewp {
+    padding-top: 40px;
+}
+
+.list-examhead {
+    padding-top: 40px;
+}
+
+.list-examhead .row {
+    align-items: center;
+}
+
+.listExambtn a {
+    background: #00ACEE;
+    color: #fff;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 4px;
+}
+
+.listExambtn {
+    text-align: end;
+}
+
+.list-examhead h5 {
+    color: #2a4573;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.cour-listhead input {
+    border-radius: 3px;
+}
+
+.list-examhead input {
+    border-radius: 3px;
+}
+
+.list-examtable {
+    margin-top: 40px;
+}
+
+span.spanexam {
+    font-weight: 400;
+}
+
+.activitisUl-bg button {
+    background: #00ACEE;
+    color: #fff;
+    font-weight: 400;
+    border: none;
+    border-radius: 3px;
+    padding: 4px 10px;
+    font-size: 13px;
+    margin-right: 10px;
+}
+
+.add-examsec {
+    padding-top: 40px;
+}
+
+.add-examsec h5 {
+    color: #2a4573;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.add-examsec input {
+    border-radius: 3px;
+}
+
+.submitAddExam button {
+    background: #00ACEE;
+    color: #fff;
+    border: none;
+    font-weight: 500;
+    padding: 4px 14px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.reranuBg ul {
+    padding: 0;
+    margin: 0;
+}
+
+.reranuBg li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.reranuBg .input-group>.form-control, .input-group>.form-floating, .input-group>.form-select {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.document-detsec h5 {
+    color: #2a4573;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.current-designation label {
+    font-size: 15px;
+}
+
+.document-detsec span {
+    color: red;
+    font-weight: 700;
+}
+
+.bank-detsec h5 {
+    color: #2a4573;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.bank-detsec span {
+    color: red;
+    font-weight: 700;
+}
+
+.header-right {
+    float: right;
+}
+
+header.header-wp .row {
+    align-items: center;
+}
+
+.header-right ul {
+    padding: 0;
+    margin: 0;
+}
+
+.header-right li {
+    display: inline-block;
+}
+
+a:focus, a:hover{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.listAsso-head h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 18px;
+    font-size: 20px;
+}
+
+header.header-wp {
+    position: fixed;
+    z-index: 999;
+    background: #fff;
+    width: 100%;
+}
+
+.dashboard-sec {
+    padding-top: 74px;
+}
+
+.chapter-select select {
+    height: 35px;
+    border-radius: 3px !important;
+    font-size: 13px;
+    color: #858585;
+}
+
+li#chapterIcon {
+    margin-left: 16px;
+}
+
+td.btn-Chapter a {
+    background: #00acee;
+    color: #fff !important;
+    padding: 4px 14px;
+    font-size: 14px;
+    border-radius: 3px;
+}
+
+.table-chapter {
+    padding-top: 40px;
+}
+
+.chapter-lishead {
+    padding-top: 40px;
+}
+
+.chapter-lishead h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 18px;
+    font-size: 20px;
+}
+
+button.subminBtn {
+    background: #00ACEE;
+    color: #fff;
+    border: none;
+    font-weight: 500;
+    padding: 4px 14px;
+    border-radius: 4px;
+    float: right;
+    margin-top: -48px;
+}
+
+/* .menus-abmincmn {
+    position: fixed;
+} */
+
+section.list-chaptewp {
+    padding-top: 40px;
+}
+
+.chapter-listhead h5 {
+    color: #2a4573;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+.header-sec {
+    margin: 0 10px;
+}
+
+.dashboard-sec {
+    margin: 0 20px;
+}
+
+.ad-menus {
+    position: fixed;
+}
+
+.document-detsec {
+    margin-top: 40px;
+}
+
+form#bankDetsecId {
+    padding-top: 20;
+}
+
+.associateDet-sec li {
+    list-style: none;
+}
+
+.associateDet-sec ul {
+    padding: 0;
+}
+
+.associateDet-sec h5 {
+    color: #2a4573;
+    font-weight: 700;
+    margin-bottom: 48px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.associateDet-sec {
+    margin-top: 20px;
+}
+
+.associateDet-sec ul {
+    margin-bottom: 20px;
+}
+
+.formleft-con p {
+    font-weight: 700;
+}
+
+.regiManimg img {
+    max-width: 80% !important;
+    height: 160px;
+}
+
+.headLogo img {
+    max-width: 80%;
+    margin-left: 34px;
+}
+
+.headLogo .row {
+    align-items: center;
+}
+
+.headLogo p {
+    font-weight: 500;
+}
+
+.associateDet-sec {
+    margin: 20px 0 30px;
+}
+
+.headLogo {
+    padding-top: 20px;
+}
+
+.headLogo h4 {
+    color: #2a4573;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+.associateDet-sec {
+    margin: 30px 0 30px;
+    padding: 40px 0 0 20px;
+    border-top: 1px solid #d1d1d1;
+}
+
+
+.headLogo span {
+    color: #2a4573;
+    font-size: 14px;
+}
+
+.highflycon {
+    margin-left: -20px;
+    text-align: center;
+}
+
+.assocmn-bg {
+    box-shadow: 10px 1px 10px #d6d6d6;
+    padding: 0px 0 10px 0px;
+    margin-left: -19px;
+}
+
+.cmn-dawn-print {
+    position: fixed;
+    top: 20%;
+    right: 70px;
+}
+
+.cmn-dawn-print button {
+    border: none;
+    box-shadow: 0px 0px 5px #aaaaaa;
+    padding: 8px 12px;
+    border-radius: 4px;
+    width: 130%;
+    border: 1px solid #a3a3a3;
+    margin-bottom: 14px;
+}
+
+.assocmn-bg {
+    box-shadow: 0px 0px 10px #acacac;
+    padding: 0px 0 10px 0px;
+    margin-left: 0px;
+}
+
+.cmn-associateDetwp {
+    margin-top: 27px;
+}
+
+button.downloadBtn {
+    background: #1b4e9b;
+    color: #fff;
+}
+
+button.printBtn {
+    background: #e26822;
+    color: #fff;
+}
+
+ul#assoDropID {
+    margin-left: 25px;
+}
+
+ul#courseMeID {
+    margin-left: 25px;
+}
+
+ul#chapterID {
+    margin-left: 25px;
+}
+
+ul#examDropID {
+    margin-left: 25px;
+}
+
+ul#reportIDM {
+    margin-left: 25px;
+}
+
+ul#assoDropID li {
+    margin-bottom: 4px;
+}
+
+ul#courseMeID li {
+    margin-bottom: 4px;
+}
+
+ul#chapterID li {
+    margin-bottom: 4px;
+}
+
+ul#examDropID li {
+    margin-bottom: 4px;
+}
+
+ul#reportIDM li {
+    margin-bottom: 4px;
+}
