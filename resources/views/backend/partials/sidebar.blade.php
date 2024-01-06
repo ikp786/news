@@ -40,25 +40,48 @@
                     <a href="{{ route('admin.categories.index') }}" class="menu-link">
                         <div>Category List</div>
                     </a>
-                </li>               
+                </li>
             </ul>
         </li>
-
-        {{-- <li class="menu-item {{ \Str::is('admin.cities.*', request()->route()->getName()) ? 'active open' : '' }}">
+        <li class="menu-item {{ \Str::is('admin.web_stories.*', request()->route()->getName()) ? 'active open' : '' }}">
             <a href="javascript:;" class="menu-link menu-toggle">
-                <i class="fa-solid menu-icon fa-gear"></i>
-                <div>Settings</div>
+                <i class="fa-regular menu-icon fa-handshake" style="wight: 10px"></i>
+                <div>News</div>
             </a>
             <ul class="menu-sub">
                 <li
-                    class="menu-item {{ \Str::is('admin.cities.index', request()->route()->getName()) ? 'active open' : '' }}">
-                    <a href="{{ route('admin.cities.index') }}" class="menu-link">
-                        <div> City Master</div>
+                    class="menu-item {{ \Str::is('admin.news.create', request()->route()->getName()) ? 'active open' : '' }}">
+                    <a href="{{ route('admin.news.create') }}" class="menu-link">
+                        <div>Add News</div>
                     </a>
                 </li>
-
+                <li
+                    class="menu-item {{ \Str::is('admin.news.index', request()->route()->getName()) ? 'active open' : '' }}">
+                    <a href="{{ route('admin.news.index') }}" class="menu-link">
+                        <div>News List</div>
+                    </a>
+                </li>
             </ul>
-        </li> --}}
-
+        </li>
+        <li class="menu-item {{ \Str::is('admin.web_stories.*', request()->route()->getName()) ? 'active open' : '' }}">
+            <a href="javascript:;" class="menu-link menu-toggle">
+                <i class="fa-regular menu-icon fa-handshake" style="wight: 10px"></i>
+                <div>Web Stories</div>
+            </a>
+            <ul class="menu-sub">
+                <li
+                    class="menu-item {{ \Str::is('admin.web_stories.create', request()->route()->getName()) ? 'active open' : '' }}">
+                    <a href="{{ route('admin.web_stories.create') }}" class="menu-link">
+                        <div>Add Web Story</div>
+                    </a>
+                </li>
+                <li
+                    class="menu-item {{ \Str::is('admin.web_stories.index', request()->route()->getName()) ? 'active open' : '' }}">
+                    <a href="{{ route('admin.web_stories.index') }}" class="menu-link">
+                        <div>Web Stories List</div>
+                    </a>
+                </li>
+            </ul>
+        </li>
     </ul>
 </aside>

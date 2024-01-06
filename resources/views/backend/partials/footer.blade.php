@@ -6,7 +6,7 @@
         © <script>
           document.write(new Date().getFullYear())
         </script>, made with <span class="text-danger"><i class="tf-icons mdi mdi-heart"></i></span> by <a
-          href="https://premad.in" target="_blank" class="footer-link fw-medium">Premad Software</a>
+          href="https://aksasoftware.com/" target="_blank" class="footer-link fw-medium">AKSA Software</a>
       </div>
     </div>
   </div>
